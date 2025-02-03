@@ -13,9 +13,9 @@
 - **Software Architecture:** Applying SOLID principles and design patterns.
 - **DevOps:** Exploring Docker and monitoring tools like Elasticsearch and Kibana.
 
-
+## 🎯 Currentyl 
 - 🔭 I’m currently working on RPA using Python.
-
+- Building innovative, Python-based automation solutions.
 
 <!--
 **AhmedGamal7/AhmedGamal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
