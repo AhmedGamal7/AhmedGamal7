@@ -13,7 +13,7 @@
 - **Software Architecture:** Applying SOLID principles and design patterns.
 - **DevOps:** Exploring Docker and monitoring tools like Elasticsearch and Kibana.
 
-## 🎯 Currentyl 
+## 🎯 Currently 
 - 🔭 I’m currently working on RPA using Python.
 - Building innovative, Python-based automation solutions.
 
