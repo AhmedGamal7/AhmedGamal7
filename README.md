@@ -1,8 +1,8 @@
 
 ## 👋 Hello, I'm Ahmed Gamal
 
--**Welcome to my GitHub profile!
--**I'm an entry-level Python developer passionate about solving complex software challenges and building efficient, maintainable, and scalable solutions. My journey as a developer revolves around leveraging Python's power for automation, data processing, and application development while adhering to clean coding practices and the principles of software design.
+- **Welcome to my GitHub profile!
+- **I'm an entry-level Python developer passionate about solving complex software challenges and building efficient, maintainable, and scalable solutions. My journey as a developer revolves around leveraging Python's power for automation, data processing, and application development while adhering to clean coding practices and the principles of software design.
 
 
 ## 🚀 Skills & Interests
